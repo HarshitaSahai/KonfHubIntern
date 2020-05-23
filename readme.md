@@ -3,6 +3,8 @@ Node Version: v11.0.0
 
 Install:
 Node -    npm install request (Create a folder node_modules in cd)
+
+
 Python -  pip install pprintpp
           pip install json2table 		
 
@@ -20,3 +22,7 @@ Steps:
 7. Run jsontohtml.py:
 	7.1 create paid.html
 	7.2 create free.html
+	
+8. Convert html to excel (can be done usng onilne convertor or javascript).
+9. Perform conditional formatting in sheet and find exact as well as semantic duplicates
+
