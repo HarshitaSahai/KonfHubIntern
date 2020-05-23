@@ -2,6 +2,8 @@ Python Version: Python 3.7
 Node Version: v11.0.0
 
 Install:
+
+
 Node -    npm install request (Create a folder node_modules in cd)
 
 
@@ -25,4 +27,7 @@ Steps:
 	
 8. Convert html to excel (can be done usng onilne convertor or javascript).
 9. Perform conditional formatting in sheet and find exact as well as semantic duplicates
+
+
+All the files mentioned above are already present in the repo. You just need to clone and open .html file for readable format.
 
